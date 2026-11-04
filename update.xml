@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='apdleakhmlcfoljigkiakhkpjphdbpfh'>
-    <updatecheck codebase='YOUR_CRX_LINK' version='2.6' />
+    <updatecheck codebase='https://raw.githubusercontent.com/hamnajaved555-uii/my-extension/main/Quick%20Uploader.crx' version='2.6' />
   </app>
 </gupdate>
